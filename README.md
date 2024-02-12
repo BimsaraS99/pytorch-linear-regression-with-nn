@@ -29,9 +29,6 @@ Linear-Regression-PyTorch is a simple project that demonstrates how to implement
 **Contributing:**
 Contributions to improve the project are welcome! Feel free to fork the repository, make changes, and submit a pull request.
 
-**License:**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 **Author:**
 BimsaraS99
 
